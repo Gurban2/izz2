@@ -7,7 +7,7 @@ export const variables = {
   grey5: "#d8d8d8",
   greenAccents: "#2ec1ac",
   lightBG: "#f4f5f7",
-  redAccents: "#FF0000",
+  redAccents: "#cc0000",
   white: "#fff",
   fontColor: "#333",
   fontColor1: "#666",
